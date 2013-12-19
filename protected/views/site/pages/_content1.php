@@ -1,1 +1,1 @@
-<?php echo 'Content via partial render'; ?>
+<?php echo 'gianar'; ?>
